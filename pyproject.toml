@@ -1,0 +1,27 @@
+[tool.pylint.'MESSAGES CONTROL']
+disable = """
+    missing-class-docstring,
+    missing-module-docstring,
+    missing-function-docstring,
+    logging-fstring-interpolation,
+    unused-import,
+"""
+max-line-length = 120
+[tool.isort]
+include_trailing_comma = true
+known_torch = ["torch"]
+line_length = 100
+multi_line_output = 3
+sections = [
+  'FUTURE',
+  'STDLIB',
+  'TORCH',
+  'THIRDPARTY',
+  'FIRSTPARTY',
+  'LOCALFOLDER',
+]
+[tool.autopep8]
+ignore = [
+  "E402",
+]
+max-line-length = 120

@@ -1,0 +1,770 @@
+{
+  "model.layers.0.mlp.up_proj": {
+    "module_name": "model.layers.0.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.10640960186719894,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.0.mlp.gate_proj": {
+    "module_name": "model.layers.0.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.10640960186719894,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.0.mlp.down_proj": {
+    "module_name": "model.layers.0.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.0011685719946399331,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.1.mlp.up_proj": {
+    "module_name": "model.layers.1.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.19413559138774872,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.1.mlp.gate_proj": {
+    "module_name": "model.layers.1.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.19413559138774872,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.1.mlp.down_proj": {
+    "module_name": "model.layers.1.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.0021950388327240944,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.2.mlp.up_proj": {
+    "module_name": "model.layers.2.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.2741025984287262,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.2.mlp.gate_proj": {
+    "module_name": "model.layers.2.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.2741025984287262,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.2.mlp.down_proj": {
+    "module_name": "model.layers.2.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.0036233437713235617,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.3.mlp.up_proj": {
+    "module_name": "model.layers.3.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.3433918356895447,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.3.mlp.gate_proj": {
+    "module_name": "model.layers.3.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.3433918356895447,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.3.mlp.down_proj": {
+    "module_name": "model.layers.3.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.005725337192416191,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.4.mlp.up_proj": {
+    "module_name": "model.layers.4.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.40290310978889465,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.4.mlp.gate_proj": {
+    "module_name": "model.layers.4.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.40290310978889465,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.4.mlp.down_proj": {
+    "module_name": "model.layers.4.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.008823120035231113,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.5.mlp.up_proj": {
+    "module_name": "model.layers.5.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.47873392701148987,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.5.mlp.gate_proj": {
+    "module_name": "model.layers.5.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.47873392701148987,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.5.mlp.down_proj": {
+    "module_name": "model.layers.5.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.01252417080104351,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.6.mlp.up_proj": {
+    "module_name": "model.layers.6.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.523475706577301,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.6.mlp.gate_proj": {
+    "module_name": "model.layers.6.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.523475706577301,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.6.mlp.down_proj": {
+    "module_name": "model.layers.6.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.015557505190372467,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.7.mlp.up_proj": {
+    "module_name": "model.layers.7.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.5746299028396606,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.7.mlp.gate_proj": {
+    "module_name": "model.layers.7.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.5746299028396606,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.7.mlp.down_proj": {
+    "module_name": "model.layers.7.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.018994776532053947,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.8.mlp.up_proj": {
+    "module_name": "model.layers.8.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6032574772834778,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.8.mlp.gate_proj": {
+    "module_name": "model.layers.8.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6032574772834778,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.8.mlp.down_proj": {
+    "module_name": "model.layers.8.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.02134747989475727,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.9.mlp.up_proj": {
+    "module_name": "model.layers.9.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6244412064552307,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.9.mlp.gate_proj": {
+    "module_name": "model.layers.9.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6244412064552307,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.9.mlp.down_proj": {
+    "module_name": "model.layers.9.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.022869694977998734,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.10.mlp.up_proj": {
+    "module_name": "model.layers.10.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6281291842460632,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.10.mlp.gate_proj": {
+    "module_name": "model.layers.10.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6281291842460632,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.10.mlp.down_proj": {
+    "module_name": "model.layers.10.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.024600651115179062,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.11.mlp.up_proj": {
+    "module_name": "model.layers.11.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6479542851448059,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.11.mlp.gate_proj": {
+    "module_name": "model.layers.11.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6479542851448059,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.11.mlp.down_proj": {
+    "module_name": "model.layers.11.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.026129772886633873,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.12.mlp.up_proj": {
+    "module_name": "model.layers.12.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6875448822975159,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.12.mlp.gate_proj": {
+    "module_name": "model.layers.12.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.6875448822975159,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.12.mlp.down_proj": {
+    "module_name": "model.layers.12.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.02807416394352913,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.13.mlp.up_proj": {
+    "module_name": "model.layers.13.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.7219194173812866,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.13.mlp.gate_proj": {
+    "module_name": "model.layers.13.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.7219194173812866,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.13.mlp.down_proj": {
+    "module_name": "model.layers.13.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.0301937535405159,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.14.mlp.up_proj": {
+    "module_name": "model.layers.14.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.7467777729034424,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.14.mlp.gate_proj": {
+    "module_name": "model.layers.14.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.7467777729034424,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.14.mlp.down_proj": {
+    "module_name": "model.layers.14.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.03536613658070564,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.15.mlp.up_proj": {
+    "module_name": "model.layers.15.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.8121709227561951,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.15.mlp.gate_proj": {
+    "module_name": "model.layers.15.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.8121709227561951,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.15.mlp.down_proj": {
+    "module_name": "model.layers.15.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.04085957258939743,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.16.mlp.up_proj": {
+    "module_name": "model.layers.16.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.8885170221328735,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.16.mlp.gate_proj": {
+    "module_name": "model.layers.16.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.8885170221328735,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.16.mlp.down_proj": {
+    "module_name": "model.layers.16.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.04822251945734024,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.17.mlp.up_proj": {
+    "module_name": "model.layers.17.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.9583803415298462,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.17.mlp.gate_proj": {
+    "module_name": "model.layers.17.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.9583803415298462,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.17.mlp.down_proj": {
+    "module_name": "model.layers.17.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.05332595482468605,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.18.mlp.up_proj": {
+    "module_name": "model.layers.18.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.0211198329925537,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.18.mlp.gate_proj": {
+    "module_name": "model.layers.18.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.0211198329925537,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.18.mlp.down_proj": {
+    "module_name": "model.layers.18.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.06323347240686417,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.19.mlp.up_proj": {
+    "module_name": "model.layers.19.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.1027207374572754,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.19.mlp.gate_proj": {
+    "module_name": "model.layers.19.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.1027207374572754,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.19.mlp.down_proj": {
+    "module_name": "model.layers.19.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.07209786772727966,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.20.mlp.up_proj": {
+    "module_name": "model.layers.20.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.1947585344314575,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.20.mlp.gate_proj": {
+    "module_name": "model.layers.20.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.1947585344314575,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.20.mlp.down_proj": {
+    "module_name": "model.layers.20.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.07834306359291077,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.21.mlp.up_proj": {
+    "module_name": "model.layers.21.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.2912577390670776,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.21.mlp.gate_proj": {
+    "module_name": "model.layers.21.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.2912577390670776,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.21.mlp.down_proj": {
+    "module_name": "model.layers.21.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.08545111864805222,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.22.mlp.up_proj": {
+    "module_name": "model.layers.22.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.3343685865402222,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.22.mlp.gate_proj": {
+    "module_name": "model.layers.22.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.3343685865402222,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.22.mlp.down_proj": {
+    "module_name": "model.layers.22.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.08611085265874863,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.23.mlp.up_proj": {
+    "module_name": "model.layers.23.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.3893463611602783,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.23.mlp.gate_proj": {
+    "module_name": "model.layers.23.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.3893463611602783,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.23.mlp.down_proj": {
+    "module_name": "model.layers.23.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.08984660357236862,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.24.mlp.up_proj": {
+    "module_name": "model.layers.24.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.4514180421829224,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.24.mlp.gate_proj": {
+    "module_name": "model.layers.24.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.4514180421829224,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.24.mlp.down_proj": {
+    "module_name": "model.layers.24.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.09540904313325882,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.25.mlp.up_proj": {
+    "module_name": "model.layers.25.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.4944945573806763,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.25.mlp.gate_proj": {
+    "module_name": "model.layers.25.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.4944945573806763,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.25.mlp.down_proj": {
+    "module_name": "model.layers.25.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.09850089997053146,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.26.mlp.up_proj": {
+    "module_name": "model.layers.26.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5155819654464722,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.26.mlp.gate_proj": {
+    "module_name": "model.layers.26.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5155819654464722,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.26.mlp.down_proj": {
+    "module_name": "model.layers.26.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.10042665153741837,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.27.mlp.up_proj": {
+    "module_name": "model.layers.27.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5534785985946655,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.27.mlp.gate_proj": {
+    "module_name": "model.layers.27.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5534785985946655,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.27.mlp.down_proj": {
+    "module_name": "model.layers.27.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.10763760656118393,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.28.mlp.up_proj": {
+    "module_name": "model.layers.28.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5862617492675781,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.28.mlp.gate_proj": {
+    "module_name": "model.layers.28.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5862617492675781,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.28.mlp.down_proj": {
+    "module_name": "model.layers.28.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.12105273455381393,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.29.mlp.up_proj": {
+    "module_name": "model.layers.29.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5657075643539429,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.29.mlp.gate_proj": {
+    "module_name": "model.layers.29.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5657075643539429,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.29.mlp.down_proj": {
+    "module_name": "model.layers.29.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.13200505077838898,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.30.mlp.up_proj": {
+    "module_name": "model.layers.30.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5410385131835938,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.30.mlp.gate_proj": {
+    "module_name": "model.layers.30.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.5410385131835938,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.30.mlp.down_proj": {
+    "module_name": "model.layers.30.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.1463770866394043,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.31.mlp.up_proj": {
+    "module_name": "model.layers.31.mlp.up_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.388121247291565,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.31.mlp.gate_proj": {
+    "module_name": "model.layers.31.mlp.gate_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 1.388121247291565,
+    "target_sparsity": 0.4,
+    "hook_type": "pre_hook"
+  },
+  "model.layers.31.mlp.down_proj": {
+    "module_name": "model.layers.31.mlp.down_proj",
+    "demode_method": "zero",
+    "mode": 0.0,
+    "threshold": 0.16503138840198517,
+    "target_sparsity": 0.6,
+    "hook_type": "pre_hook"
+  }
+}

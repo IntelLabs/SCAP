@@ -1,0 +1,258 @@
+{
+  "transformer.h.0.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.0.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.00791168212890625,
+    "threshold": 0.007656097412109375,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.1.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.1.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0005846023559570312,
+    "threshold": 0.0005545616149902344,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.2.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.2.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0034046173095703125,
+    "threshold": 0.00315093994140625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.3.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.3.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.00495147705078125,
+    "threshold": 0.00464630126953125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.4.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.4.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.00835418701171875,
+    "threshold": 0.00801849365234375,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.5.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.5.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0111083984375,
+    "threshold": 0.01058197021484375,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.6.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.6.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.02154541015625,
+    "threshold": 0.018829345703125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.7.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.7.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.040771484375,
+    "threshold": 0.03350830078125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.8.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.8.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.043914794921875,
+    "threshold": 0.034332275390625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.9.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.9.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.056976318359375,
+    "threshold": 0.0418701171875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.10.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.10.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.061065673828125,
+    "threshold": 0.043121337890625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.11.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.11.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.06903076171875,
+    "threshold": 0.04638671875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.12.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.12.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0738525390625,
+    "threshold": 0.0474853515625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.13.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.13.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0767822265625,
+    "threshold": 0.0489501953125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.14.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.14.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0662841796875,
+    "threshold": 0.04559326171875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.15.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.15.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.078857421875,
+    "threshold": 0.04931640625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.16.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.16.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.07318115234375,
+    "threshold": 0.04888916015625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.17.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.17.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.077392578125,
+    "threshold": 0.04986572265625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.18.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.18.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.08636474609375,
+    "threshold": 0.05108642578125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.19.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.19.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.08428955078125,
+    "threshold": 0.05120849609375,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.20.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.20.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.08441162109375,
+    "threshold": 0.05120849609375,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.21.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.21.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0908203125,
+    "threshold": 0.0523681640625,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.22.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.22.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.09588623046875,
+    "threshold": 0.052520751953125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.23.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.23.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.093017578125,
+    "threshold": 0.052703857421875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.24.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.24.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.09271240234375,
+    "threshold": 0.053253173828125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.25.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.25.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.08782958984375,
+    "threshold": 0.053253173828125,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.26.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.26.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.088623046875,
+    "threshold": 0.0535888671875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.27.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.27.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.093994140625,
+    "threshold": 0.05419921875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.28.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.28.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.09429931640625,
+    "threshold": 0.05413818359375,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.29.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.29.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.10003662109375,
+    "threshold": 0.05340576171875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.30.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.30.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.0938720703125,
+    "threshold": 0.056610107421875,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  },
+  "transformer.h.31.mlp.dense_4h_to_h": {
+    "module_name": "transformer.h.31.mlp.dense_4h_to_h",
+    "demode_method": "zero",
+    "mode": -0.09112548828125,
+    "threshold": 0.05902099609375,
+    "target_sparsity": 0.5,
+    "hook_type": "pre_hook"
+  }
+}

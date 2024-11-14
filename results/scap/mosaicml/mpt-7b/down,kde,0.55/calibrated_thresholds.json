@@ -1,0 +1,258 @@
+{
+  "transformer.blocks.0.ffn.down_proj": {
+    "module_name": "transformer.blocks.0.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": 1.1724612306140969e-05,
+    "threshold": 0.0003838539123535156,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.1.ffn.down_proj": {
+    "module_name": "transformer.blocks.1.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.00047191564532264585,
+    "threshold": 0.0019006729125976562,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.2.ffn.down_proj": {
+    "module_name": "transformer.blocks.2.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.006633199412206081,
+    "threshold": 0.00623321533203125,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.3.ffn.down_proj": {
+    "module_name": "transformer.blocks.3.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.001015156015507751,
+    "threshold": 0.0073089599609375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.4.ffn.down_proj": {
+    "module_name": "transformer.blocks.4.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.0028656906578289065,
+    "threshold": 0.014984130859375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.5.ffn.down_proj": {
+    "module_name": "transformer.blocks.5.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.005967827663831915,
+    "threshold": 0.035797119140625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.6.ffn.down_proj": {
+    "module_name": "transformer.blocks.6.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.011835019072036018,
+    "threshold": 0.052978515625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.7.ffn.down_proj": {
+    "module_name": "transformer.blocks.7.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.027276333479239634,
+    "threshold": 0.05029296875,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.8.ffn.down_proj": {
+    "module_name": "transformer.blocks.8.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16657058998249125,
+    "threshold": 0.09954833984375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.9.ffn.down_proj": {
+    "module_name": "transformer.blocks.9.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.1670727942096048,
+    "threshold": 0.08514404296875,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.10.ffn.down_proj": {
+    "module_name": "transformer.blocks.10.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16651196692096049,
+    "threshold": 0.0765380859375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.11.ffn.down_proj": {
+    "module_name": "transformer.blocks.11.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16561112587543772,
+    "threshold": 0.072265625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.12.ffn.down_proj": {
+    "module_name": "transformer.blocks.12.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16592085105052526,
+    "threshold": 0.0679931640625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.13.ffn.down_proj": {
+    "module_name": "transformer.blocks.13.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16521444315907954,
+    "threshold": 0.06512451171875,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.14.ffn.down_proj": {
+    "module_name": "transformer.blocks.14.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.1655954930590295,
+    "threshold": 0.06427001953125,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.15.ffn.down_proj": {
+    "module_name": "transformer.blocks.15.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16533755158829413,
+    "threshold": 0.06072998046875,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.16.ffn.down_proj": {
+    "module_name": "transformer.blocks.16.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16532875812906453,
+    "threshold": 0.058441162109375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.17.ffn.down_proj": {
+    "module_name": "transformer.blocks.17.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16555738806903453,
+    "threshold": 0.054962158203125,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.18.ffn.down_proj": {
+    "module_name": "transformer.blocks.18.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.1662911533891946,
+    "threshold": 0.055816650390625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.19.ffn.down_proj": {
+    "module_name": "transformer.blocks.19.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.1662149434092046,
+    "threshold": 0.053375244140625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.20.ffn.down_proj": {
+    "module_name": "transformer.blocks.20.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16619637943971985,
+    "threshold": 0.0531005859375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.21.ffn.down_proj": {
+    "module_name": "transformer.blocks.21.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16579090326413207,
+    "threshold": 0.053680419921875,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.22.ffn.down_proj": {
+    "module_name": "transformer.blocks.22.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16581532953976988,
+    "threshold": 0.050750732421875,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.23.ffn.down_proj": {
+    "module_name": "transformer.blocks.23.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.1651206462606303,
+    "threshold": 0.049835205078125,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.24.ffn.down_proj": {
+    "module_name": "transformer.blocks.24.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16618172367433717,
+    "threshold": 0.050994873046875,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.25.ffn.down_proj": {
+    "module_name": "transformer.blocks.25.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16623448442971486,
+    "threshold": 0.050567626953125,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.26.ffn.down_proj": {
+    "module_name": "transformer.blocks.26.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16536393196598298,
+    "threshold": 0.047454833984375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.27.ffn.down_proj": {
+    "module_name": "transformer.blocks.27.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16497115745372687,
+    "threshold": 0.04620361328125,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.28.ffn.down_proj": {
+    "module_name": "transformer.blocks.28.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.1651206462606303,
+    "threshold": 0.043853759765625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.29.ffn.down_proj": {
+    "module_name": "transformer.blocks.29.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16182993840670334,
+    "threshold": 0.040924072265625,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.30.ffn.down_proj": {
+    "module_name": "transformer.blocks.30.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.16174786612056027,
+    "threshold": 0.05303955078125,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  },
+  "transformer.blocks.31.ffn.down_proj": {
+    "module_name": "transformer.blocks.31.ffn.down_proj",
+    "demode_method": "zero",
+    "mode": -0.0017284032641320668,
+    "threshold": 0.0458984375,
+    "target_sparsity": 0.55,
+    "hook_type": "pre_hook"
+  }
+}
