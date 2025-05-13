@@ -1,6 +1,19 @@
 # Statistical Calibrated Activation Pruning (SCAP)
 
-This repo contains the reference codes for _"Post-Training Statistical Calibration for Higher Activation Sparsity"_.
+This repo contains the reference codes for "[Post-Training Statistical Calibration for Higher Activation Sparsity](https://arxiv.org/abs/2412.07174)".
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@InProceedings{chua2024scap,
+  title     = {Post-Training Statistical Calibration for Higher Activation Sparsity},
+  author    = {Chua, Vui Seng and Pan, Yujie and Jain, Nilesh},
+  booktitle = {Proceedings of The 4th NeurIPS Efficient Natural Language and Speech Processing Workshop},
+  year      = {2024},
+  volume    = {262},
+  series    = {Proceedings of Machine Learning Research}
+}
+```
 
 ## Abstract
 
